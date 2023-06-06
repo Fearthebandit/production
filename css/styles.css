@@ -1,16 +1,10 @@
 
-html,body{ 
+html , body { 
     width:99%;
     height:98%;
     background: #000000
 }
 
-
-bo555dy {
-    margin: 0;
-    padding: 0;
-    height: 100vh;
-}
 
 canvas {
     display: block;
@@ -22,12 +16,11 @@ canvas {
 
 
 body {
-background-color: #000000;
-margin-left: 5px;
-margin-right: 5px;
-padding-top: 0px;
-z-index: 900;
-position:relative;
+    background-color: #000000;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 0px;
+    position:relative;
 }
 
 #particles-js {
@@ -62,7 +55,6 @@ div {
     width:100%;
 }
 div > iframe{
-    scrollbar-width: none;
      width: 900px;
     position: relative;
   }
